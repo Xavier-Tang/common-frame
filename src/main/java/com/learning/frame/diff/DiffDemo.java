@@ -7,4 +7,5 @@ package com.learning.frame.diff;
  */
 public class DiffDemo {
     private String name;
+    private String type;
 }
